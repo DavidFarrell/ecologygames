@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Walden</title><link>https://gameologist.com/ecologygames/docs/markdown/</link><description>Recent content in Markdown on Walden</description><generator>Hugo</generator><language>en-US</language><copyright>All rights reserved</copyright><lastBuildDate>Fri, 21 Jul 2023 05:16:53 +0000</lastBuildDate><atom:link href="https://gameologist.com/ecologygames/docs/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Syntax</title><link>https://gameologist.com/ecologygames/docs/markdown/syntax/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/syntax/</guid><description>&lt;p>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.&lt;/p>
+&lt;h2 id="markdown-guide">Markdown Guide&lt;/h2>
+&lt;p>The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.markdownguide.org/">markdownguide.org &lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Text</title><link>https://gameologist.com/ecologygames/docs/markdown/text/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/text/</guid><description>&lt;h2 id="headings">Headings&lt;/h2>
+&lt;h2 id="heading-lever-2">Heading lever 2&lt;/h2>
+&lt;h3 id="heading-lever-3">Heading lever 3&lt;/h3>
+&lt;h4 id="heading-lever-4">Heading lever 4&lt;/h4>
+&lt;h5 id="heading-lever-5">Heading lever 5&lt;/h5>
+&lt;h6 id="heading-lever-6">Heading lever 6&lt;/h6>
+&lt;h2 id="paragraphs">Paragraphs&lt;/h2>
+&lt;p>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.&lt;/p></description></item><item><title>Emphasis</title><link>https://gameologist.com/ecologygames/docs/markdown/emphasis/</link><pubDate>Fri, 21 Jul 2023 05:16:53 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/emphasis/</guid><description>&lt;h2 id="bold">Bold&lt;/h2>
+&lt;p>&lt;strong>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.&lt;/strong>&lt;/p></description></item><item><title>Blockquotes</title><link>https://gameologist.com/ecologygames/docs/markdown/blockquotes/</link><pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/blockquotes/</guid><description>&lt;blockquote>
+&lt;p>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.&lt;/p>
+&lt;/blockquote></description></item><item><title>Code</title><link>https://gameologist.com/ecologygames/docs/markdown/code/</link><pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/code/</guid><description>&lt;p>If you’re on a Debian-based distribution, such as Ubuntu, try apt command &lt;code>$ sudo apt install git-all&lt;/code>. For more options, there are instructions for installing on several different Unix distributions on the Git website.&lt;/p></description></item><item><title>Code Blocks</title><link>https://gameologist.com/ecologygames/docs/markdown/code-block/</link><pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/code-block/</guid><description>&lt;h2 id="normal">Normal&lt;/h2>
+&lt;pre tabindex="0">&lt;code>&amp;lt;!doctype html&amp;gt; 
+&amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt;
+ &amp;lt;head&amp;gt;
+ &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt;
+ &amp;lt;title&amp;gt;Example HTML5 Document Example&amp;lt;/title&amp;gt;
+ &amp;lt;/head&amp;gt;
+ &amp;lt;body&amp;gt;
+ &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+ &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code>&lt;/pre>&lt;h2 id="html">HTML&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!doctype html&amp;gt;&lt;/span> 
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">html&lt;/span> &lt;span style="color:#a6e22e">lang&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;en&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">meta&lt;/span> &lt;span style="color:#a6e22e">charset&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;utf-8&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Example HTML5 Document Example&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Test&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="javascript">Javascript&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-js" data-lang="js">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">$&lt;/span>(window).&lt;span style="color:#a6e22e">scroll&lt;/span>(&lt;span style="color:#66d9ef">function&lt;/span>(){
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span>(&lt;span style="color:#a6e22e">$&lt;/span>(window).&lt;span style="color:#a6e22e">scrollTop&lt;/span>()&lt;span style="color:#f92672">&amp;gt;&lt;/span>&lt;span style="color:#ae81ff">300&lt;/span>){
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">$&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;#totoc&amp;#39;&lt;/span>).&lt;span style="color:#a6e22e">fadeIn&lt;/span>(&lt;span style="color:#ae81ff">250&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }&lt;span style="color:#66d9ef">else&lt;/span>{
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">$&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;#totoc&amp;#39;&lt;/span>).&lt;span style="color:#a6e22e">fadeOut&lt;/span>(&lt;span style="color:#ae81ff">250&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> };
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>});
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Footnotes</title><link>https://gameologist.com/ecologygames/docs/markdown/footnotes/</link><pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/footnotes/</guid><description>&lt;p>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only.&lt;cite>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>I lived there two years and two months. At present I am a sojourner in civilized life again.&lt;cite>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/cite>&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Thoreau wrote the first draft of Walden at the pond, but continued to work on the book for several more years. Irish laborers for the Fitchburg Railroad lived in shanties that were closer than a mile, but Thoreau did not considered them neighbors, because they moved soon after after the completion of the railroad.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p></description></item><item><title>Image</title><link>https://gameologist.com/ecologygames/docs/markdown/image/</link><pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/image/</guid><description>&lt;p>&lt;img alt="Image" src="https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1200.jpg&amp;rf=LaDigue_1920x1200.jpg" title="Description of Image">&lt;/p></description></item><item><title>Links</title><link>https://gameologist.com/ecologygames/docs/markdown/links/</link><pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/links/</guid><description>&lt;p>Link: &lt;a href="https://gohugo.io">Hugo&lt;/a>&lt;/p>
+&lt;p>Website: &lt;a href="https://gohugo.io">https://gohugo.io&lt;/a>&lt;/p>
+&lt;p>Email: &lt;a href="mailto:13050082@qq.com">13050082@qq.com&lt;/a>&lt;/p></description></item><item><title>Lists</title><link>https://gameologist.com/ecologygames/docs/markdown/lists/</link><pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/lists/</guid><description>&lt;h2 id="ordered-lists">Ordered Lists&lt;/h2>
+&lt;ol>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;li>Third item&lt;/li>
+&lt;li>Fourth item&lt;/li>
+&lt;/ol>
+&lt;h2 id="unordered-lists">Unordered Lists&lt;/h2>
+&lt;ul>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;li>Third item&lt;/li>
+&lt;li>Fourth item&lt;/li>
+&lt;/ul>
+&lt;h2 id="nested-lists">Nested Lists&lt;/h2>
+&lt;ol>
+&lt;li>First item
+&lt;ul>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;li>Third item&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Second item
+&lt;ul>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Third item
+&lt;ul>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item><item><title>Table</title><link>https://gameologist.com/ecologygames/docs/markdown/table/</link><pubDate>Thu, 20 Jul 2023 05:16:53 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/table/</guid><description>&lt;div class="table-container">
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>No&lt;/th>
+ &lt;th>YEAR&lt;/th>
+ &lt;th>PORULATION&lt;/th>
+ &lt;th>URBAN&lt;/th>
+ &lt;th>RURAL&lt;/th>
+ &lt;th>URBAN/TOTAL&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>1&lt;/td>
+ &lt;td>2005&lt;/td>
+ &lt;td>130756&lt;/td>
+ &lt;td>56212&lt;/td>
+ &lt;td>74544&lt;/td>
+ &lt;td>43.0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2&lt;/td>
+ &lt;td>2006&lt;/td>
+ &lt;td>131448&lt;/td>
+ &lt;td>58288&lt;/td>
+ &lt;td>73160&lt;/td>
+ &lt;td>44.3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>3&lt;/td>
+ &lt;td>2007&lt;/td>
+ &lt;td>132129&lt;/td>
+ &lt;td>60633&lt;/td>
+ &lt;td>71496&lt;/td>
+ &lt;td>45.9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>4&lt;/td>
+ &lt;td>2008&lt;/td>
+ &lt;td>132802&lt;/td>
+ &lt;td>62403&lt;/td>
+ &lt;td>70399&lt;/td>
+ &lt;td>47.0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>5&lt;/td>
+ &lt;td>2009&lt;/td>
+ &lt;td>133450&lt;/td>
+ &lt;td>64512&lt;/td>
+ &lt;td>68938&lt;/td>
+ &lt;td>48.3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6&lt;/td>
+ &lt;td>2010&lt;/td>
+ &lt;td>134091&lt;/td>
+ &lt;td>66978&lt;/td>
+ &lt;td>67113&lt;/td>
+ &lt;td>49.9&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>7&lt;/td>
+ &lt;td>2011&lt;/td>
+ &lt;td>134916&lt;/td>
+ &lt;td>69927&lt;/td>
+ &lt;td>64989&lt;/td>
+ &lt;td>51.8&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8&lt;/td>
+ &lt;td>2012&lt;/td>
+ &lt;td>135922&lt;/td>
+ &lt;td>72175&lt;/td>
+ &lt;td>63747&lt;/td>
+ &lt;td>53.1&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/div></description></item><item><title>More …</title><link>https://gameologist.com/ecologygames/docs/markdown/more/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gameologist.com/ecologygames/docs/markdown/more/</guid><description>&lt;h2 id="abbreviation">Abbreviation&lt;/h2>
+&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
+&lt;h2 id="subscript">Subscript&lt;/h2>
+&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
+&lt;h2 id="superscript">Superscript&lt;/h2>
+&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
+&lt;h2 id="keybord">Keybord&lt;/h2>
+&lt;p>Press &lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>DEL&lt;/kbd> to end the session.&lt;/p>
+&lt;h2 id="mark">Mark&lt;/h2>
+&lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p></description></item></channel></rss>
