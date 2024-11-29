@@ -1,4 +1,4 @@
-baseURL = 'https://genway.com.cn/'
+baseURL = 'https://ecologygames.github.io/'
 theme = 'hugo-theme-walden'
 
 defaultContentLanguage = 'en'
