@@ -170,5 +170,17 @@
                 hreflang="en-US"
                 href="http://localhost:1313/docs/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/series/games/</loc>
+    <lastmod>2024-03-21T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/your-category/</loc>
+    <lastmod>2024-03-21T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/your-post-name/</loc>
+    <lastmod>2024-03-21T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/your-tags/</loc>
+    <lastmod>2024-03-21T10:00:00+08:00</lastmod>
   </url>
 </urlset>

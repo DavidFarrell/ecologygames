@@ -16,5 +16,12 @@
       <guid>http://localhost:1313/series/headline/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Games</title>
+      <link>http://localhost:1313/series/games/</link>
+      <pubDate>Thu, 21 Mar 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/series/games/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
