@@ -1,4 +1,4 @@
-baseURL = 'https://ecologygames.github.io/'
+baseURL = 'https://gameologist.com/ecologygames/'
 theme = 'hugo-theme-walden'
 
 defaultContentLanguage = 'en'
