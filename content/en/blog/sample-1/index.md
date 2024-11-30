@@ -9,7 +9,7 @@ series = 'headline'
   author = 'L.G. Alexander'
 +++
 
-Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
+Pumas are cute, harmless, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
 
 <!--more-->
 
