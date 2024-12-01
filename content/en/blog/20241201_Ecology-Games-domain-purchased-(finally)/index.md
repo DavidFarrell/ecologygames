@@ -4,7 +4,7 @@ date = 2024-12-01T11:19:23Z
 draft = false
 categories = 'News'
 tags = ['news']
-series = 'headline' # Optional, add this if you want it to appear in the headline section
+series = 'news' # Optional, add this if you want it to appear in the headline section
 [params]
   author = 'Paidia'
 +++
