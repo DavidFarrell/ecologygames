@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: url("/images/bg.jpg") top center repeat;
+    background-attachment: fixed;
+    
+    padding-top: 60px;
+
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+
+    font-size: 16px;
+    font-family: $sans;
+}
+
+#header {
+    background: url("/images/bg.jpg") top center repeat;
+
+    position: fixed;
+    top: 0;
+    z-index: 40;
+
+    width: 100vw;
+}
+
+#stager {
+    flex: 1;
+    background: rgba(255,255,255,0.2);
+}
+
+@media (min-width: $md) {
+    body {
+        padding-top: 0;
+    }
+    #header {
+        position: static;
+    }
+}

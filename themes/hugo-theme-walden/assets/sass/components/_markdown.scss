@@ -1,0 +1,23 @@
+.markdown {
+
+    font-size: 1rem;
+    line-height: 1.5rem;
+
+    a {
+        color: var(--primary-500);
+        &:hover {
+            color: var(--secondary-500);
+        }
+    }
+
+    @import "./markdown/text";
+    @import "./markdown/code";
+    @import "./markdown/footnotes";
+    @import "./markdown/lists";
+    @import "./markdown/blockquote";
+    @import "./markdown/image";
+    @import "./markdown/more";
+    @import "./markdown/table";
+   
+
+}

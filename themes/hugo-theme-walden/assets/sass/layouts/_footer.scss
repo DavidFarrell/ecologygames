@@ -1,0 +1,14 @@
+#footer {
+    font-size: .875rem;
+    .copyright {
+        padding: .875rem 1rem;
+        text-align: center;
+        color: var(--slate-700);
+        span {
+            margin-right: .5rem;
+            i {
+                margin-right: .25rem;
+            }
+        }
+    }
+}
