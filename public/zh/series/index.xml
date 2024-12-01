@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 瓦尔登湖</title>
-    <link>http://localhost:1313/zh/series/</link>
+    <link>https://ecologygames.eu/zh/series/</link>
     <description>Recent content in Series on 瓦尔登湖</description>
     <generator>Hugo</generator>
     <language>zh-Hans-CN</language>
     <copyright>版权所有</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 21:58:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ecologygames.eu/zh/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Headline</title>
-      <link>http://localhost:1313/zh/series/headline/</link>
+      <link>https://ecologygames.eu/zh/series/headline/</link>
       <pubDate>Mon, 29 Jul 2024 21:58:50 +0800</pubDate>
-      <guid>http://localhost:1313/zh/series/headline/</guid>
+      <guid>https://ecologygames.eu/zh/series/headline/</guid>
       <description></description>
     </item>
   </channel>
