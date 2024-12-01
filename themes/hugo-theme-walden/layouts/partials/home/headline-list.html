@@ -1,3 +1,5 @@
+{{/* Display items 2-4 of content tagged with series="news" as smaller headline cards.
+     Note: The first news item is displayed separately in the featured section. */}}
 
 {{ range after 1 (first 4 (where .Site.RegularPages "Params.series" "news")) }}
 <div class="card-container">

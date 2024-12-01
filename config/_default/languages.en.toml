@@ -1,13 +1,13 @@
-title = 'Walden'
+title = 'Ecology Games'
 
 contentDir = 'content/en'
 languageName = 'English'
 languageCode = 'en-US'
 
-copyright = 'All rights reserved'
+copyright = ''
 
 weight = 1
 
 [params]
-    author = 'Homecat'
-    description = 'Like a bridge over the troubled water, I will lay me down.'
+    author = 'Paidia'
+    description = 'A place to find links to and news about ecology games.'

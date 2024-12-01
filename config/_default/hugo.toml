@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = false
   path = 'page'
 
 [params]
-  multiLingual = true
+  multiLingual = false
 
 [taxonomies]
   category = 'categories'

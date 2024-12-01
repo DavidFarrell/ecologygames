@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Walden</title>
+    <title>Games on Ecology Games</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Games on Walden</description>
+    <description>Recent content in Games on Ecology Games</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>All rights reserved</copyright>
-    <lastBuildDate>Sun, 01 Dec 2024 11:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 13:47:38 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BioInvasions: Raccoon Rampage!</title>
+      <link>http://localhost:1313/blog/20241201_bioinvasions-raccoon-rampage/</link>
+      <pubDate>Sun, 01 Dec 2024 13:47:38 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_bioinvasions-raccoon-rampage/</guid>
+      <description>&lt;p&gt;Your &amp;ldquo;before the jump&amp;rdquo; text here.&#xA;headline.jpg (1656x350) is shown here when you are main story&#xA;thumbnail.jpg (900x300) is shown here when you are not main story&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ecology Games Is Live</title>
+      <link>http://localhost:1313/blog/20241201_ecology-games-is-live/</link>
+      <pubDate>Sun, 01 Dec 2024 13:42:26 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_ecology-games-is-live/</guid>
+      <description>&lt;p&gt;This website aims to be a hub for links to and news about ecology games.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ecology Games Domain Purchased (Finally)</title>
       <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</link>
       <pubDate>Sun, 01 Dec 2024 11:19:23 +0000</pubDate>
       <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</guid>
-      <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>20241201_Ecology Games Domain Purchased!</title>
-      <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</link>
-      <pubDate>Sun, 01 Dec 2024 11:11:24 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</guid>
       <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
     </item>
     <item>

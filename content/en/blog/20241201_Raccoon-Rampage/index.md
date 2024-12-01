@@ -4,7 +4,7 @@ date = 2024-12-01T11:08:52Z
 draft = false
 categories = 'Game'
 tags = ['mammals', 'raccoon', 'semi-cooperative', 'cooperative', 'negotiation']
-series = 'headline' # Optional, add this if you want it to appear in the headline section
+series = 'games' # Optional, add this if you want it to appear in the headline section
 [params]
   author = 'Paidia'
 +++

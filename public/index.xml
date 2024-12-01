@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Walden</title>
+    <title>Home on Ecology Games</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Walden</description>
+    <description>Recent content in Home on Ecology Games</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>All rights reserved</copyright>
-    <lastBuildDate>Sun, 01 Dec 2024 11:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 13:47:38 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Figure</title>
@@ -115,17 +114,24 @@
       <description>&lt;h2 id=&#34;abbreviation&#34;&gt;Abbreviation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;&#xA;&lt;h2 id=&#34;subscript&#34;&gt;Subscript&lt;/h2&gt;&#xA;&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;&#xA;&lt;h2 id=&#34;superscript&#34;&gt;Superscript&lt;/h2&gt;&#xA;&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;keybord&#34;&gt;Keybord&lt;/h2&gt;&#xA;&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt;+&lt;kbd&gt;ALT&lt;/kbd&gt;+&lt;kbd&gt;DEL&lt;/kbd&gt; to end the session.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mark&#34;&gt;Mark&lt;/h2&gt;&#xA;&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>BioInvasions: Raccoon Rampage!</title>
+      <link>http://localhost:1313/blog/20241201_bioinvasions-raccoon-rampage/</link>
+      <pubDate>Sun, 01 Dec 2024 13:47:38 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_bioinvasions-raccoon-rampage/</guid>
+      <description>&lt;p&gt;Your &amp;ldquo;before the jump&amp;rdquo; text here.&#xA;headline.jpg (1656x350) is shown here when you are main story&#xA;thumbnail.jpg (900x300) is shown here when you are not main story&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ecology Games Is Live</title>
+      <link>http://localhost:1313/blog/20241201_ecology-games-is-live/</link>
+      <pubDate>Sun, 01 Dec 2024 13:42:26 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_ecology-games-is-live/</guid>
+      <description>&lt;p&gt;This website aims to be a hub for links to and news about ecology games.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ecology Games Domain Purchased (Finally)</title>
       <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</link>
       <pubDate>Sun, 01 Dec 2024 11:19:23 +0000</pubDate>
       <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</guid>
-      <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>20241201_Ecology Games Domain Purchased!</title>
-      <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</link>
-      <pubDate>Sun, 01 Dec 2024 11:11:24 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</guid>
       <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
     </item>
     <item>
