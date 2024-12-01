@@ -226,28 +226,34 @@ body {
 #headline {
   width: 100%; }
 
-#headline-list {
+#headline-list,
+#games-list {
   width: 100%;
   padding: .5rem;
   display: flex;
   flex-flow: wrap; }
-  #headline-list .card-container {
+  #headline-list .card-container,
+  #games-list .card-container {
     padding: .5rem;
     width: 100%; }
 
 @media (min-width: 800px) {
-  #headline-list .card-container {
+  #headline-list .card-container,
+  #games-list .card-container {
     width: 50%; } }
 
 @media (min-width: 1200px) {
-  #headline-list {
+  #headline-list,
+  #games-list {
     padding: 1rem 1.5rem; }
-    #headline-list .card-container {
+    #headline-list .card-container,
+    #games-list .card-container {
       padding: .75rem;
       width: 33.33%; } }
 
 @media (min-width: 1800px) {
-  #headline-list .card-container {
+  #headline-list .card-container,
+  #games-list .card-container {
     width: 25%; } }
 
 #breadcrumb {
