@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semi-Cooperative on Walden</title>
+    <link>http://localhost:1313/tags/semi-cooperative/</link>
+    <description>Recent content in Semi-Cooperative on Walden</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 11:08:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/semi-cooperative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20241201_Raccoon Rampage</title>
+      <link>http://localhost:1313/blog/20241201_raccoon-rampage/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_raccoon-rampage/</guid>
+      <description>&lt;p&gt;Your &amp;ldquo;before the jump&amp;rdquo; text here.&#xA;headline.jpg is shown here when you are main story&#xA;thumbnail.jpg is shown here when you are not main story&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

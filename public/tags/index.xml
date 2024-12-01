@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Walden</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tag on Walden</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 11:19:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Sun, 01 Dec 2024 11:19:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cooperative</title>
+      <link>http://localhost:1313/tags/cooperative/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cooperative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mammals</title>
+      <link>http://localhost:1313/tags/mammals/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mammals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Negotiation</title>
+      <link>http://localhost:1313/tags/negotiation/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/negotiation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raccoon</title>
+      <link>http://localhost:1313/tags/raccoon/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/raccoon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semi-Cooperative</title>
+      <link>http://localhost:1313/tags/semi-cooperative/</link>
+      <pubDate>Sun, 01 Dec 2024 11:08:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/semi-cooperative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Your Tags</title>
+      <link>http://localhost:1313/tags/your-tags/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/your-tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Theme</title>
+      <link>http://localhost:1313/tags/hugo-theme/</link>
+      <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:1313/tags/hugo-theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/tags/reading/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
+      <guid>http://localhost:1313/tags/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mammals, </title>
+      <link>http://localhost:1313/tags/mammals-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mammals-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mammals, Raccoon, Semi-Cooperative, Cooperative, Negotiation</title>
+      <link>http://localhost:1313/tags/mammals-raccoon-semi-cooperative-cooperative-negotiation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mammals-raccoon-semi-cooperative-cooperative-negotiation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raccoon, Semi-Cooperative, Cooperative, Negotiation</title>
+      <link>http://localhost:1313/tags/raccoon-semi-cooperative-cooperative-negotiation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/raccoon-semi-cooperative-cooperative-negotiation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undefined</title>
+      <link>http://localhost:1313/tags/undefined/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/undefined/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
