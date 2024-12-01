@@ -215,23 +215,5 @@
                 hreflang="en-US"
                 href="http://localhost:1313/docs/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/categories/gma/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/hedadline/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/mammals-/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/mammals-raccoon-semi-cooperative-cooperative-negotiation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/newsd/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/raccoon-semi-cooperative-cooperative-negotiation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/undefined/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/undefined/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/undefined/</loc>
   </url>
 </urlset>
