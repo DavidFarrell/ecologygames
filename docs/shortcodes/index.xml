@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes on Walden</title><link>https://ecologygames.eu/docs/shortcodes/</link><description>Recent content in Shortcodes on Walden</description><generator>Hugo</generator><language>en-US</language><copyright>All rights reserved</copyright><lastBuildDate>Mon, 17 Jun 2024 18:48:43 +0800</lastBuildDate><atom:link href="https://ecologygames.eu/docs/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Figure</title><link>https://ecologygames.eu/docs/shortcodes/figure/</link><pubDate>Mon, 17 Jun 2024 18:48:43 +0800</pubDate><guid>https://ecologygames.eu/docs/shortcodes/figure/</guid><description>&lt;h2 id="syntax">Syntax&lt;/h2>
 &lt;pre tabindex="0">&lt;code>{{&amp;lt; figure src=&amp;#34;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&amp;#34; title=&amp;#34;人与峡谷。 ©Homecat&amp;#34; &amp;gt;}}
 &lt;/code>&lt;/pre>&lt;h2 id="render-style">Render Style&lt;/h2>
-&lt;figure>&lt;img src="https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg">&lt;figcaption>
- &lt;h4>人与峡谷。 ©Homecat&lt;/h4>
+&lt;figure>
+ &lt;img src="https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg" />
+ &lt;figcaption>
+ 人与峡谷。 ©Homecat
  &lt;/figcaption>
 &lt;/figure></description></item></channel></rss>
