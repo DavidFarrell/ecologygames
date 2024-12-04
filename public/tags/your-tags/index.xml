@@ -6,14 +6,6 @@
     <description>Recent content in Your Tags on Ecology Games</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/your-tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Raccoon Rampage</title>
-      <link>http://localhost:1313/blog/your-post-name/</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/your-post-name/</guid>
-      <description>&lt;p&gt;test&#xA;Your introduction paragraph here. This will appear as the preview text in the blog list.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

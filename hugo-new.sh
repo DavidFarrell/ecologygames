@@ -4,10 +4,13 @@
 POST_TYPE="news"  # Default type
 
 # Parse command line options
-while getopts "g" opt; do
+while getopts "gh" opt; do
   case $opt in
     g)
       POST_TYPE="games"
+      ;;
+    h)
+      POST_TYPE="headline"
       ;;
     \?)
       echo "Invalid option: -$OPTARG" >&2
@@ -21,14 +24,16 @@ shift $((OPTIND-1))
 
 # Check if a valid blog post name was provided
 if [ "$#" -ne 1 ]; then
-  echo "Usage: $0 [-g] blog-post-name"
+  echo "Usage: $0 [-g|-h] blog-post-name"
   echo
   echo "Options:"
   echo "  -g    Create a game post (defaults to news post if not specified)"
+  echo "  -h    Create a headline post (defaults to news post if not specified)"
   echo
   echo "Examples:"
   echo "  $0 my-news-post          # Creates a news post"
   echo "  $0 -g my-game-post       # Creates a game post"
+  echo "  $0 -h my-headline-post   # Creates a headline post"
   echo "  $0 \"My Awesome Post\"     # Creates a news post with spaces in title"
   echo
   echo "This script creates a new blog post in the format 'YYYYMMDD_blog-post-name'."
@@ -62,7 +67,7 @@ if [ -f "$POST_FILE" ]; then
   # Remove date from title
   sed -i "s/title = '${DATE}_/title = '/" "$POST_FILE"
   
-  # If this is a game post, set the series and tags to "games"
+  # If this is a game post or headline post, set appropriate values
   if [ "$POST_TYPE" = "games" ]; then
     # Update or add series = 'games'
     if grep -q "^series = " "$POST_FILE"; then
@@ -76,6 +81,34 @@ if [ -f "$POST_FILE" ]; then
       sed -i "s/^tags = .*/tags = ['games']/" "$POST_FILE"
     else
       sed -i "/^title = /a tags = ['games']" "$POST_FILE"
+    fi
+
+    # Update categories
+    if grep -q "^categories = " "$POST_FILE"; then
+      sed -i "s/^categories = .*/categories = 'Games'/" "$POST_FILE"
+    else
+      sed -i "/^title = /a categories = 'Games'" "$POST_FILE"
+    fi
+  elif [ "$POST_TYPE" = "headline" ]; then
+    # Update or add series = 'headline'
+    if grep -q "^series = " "$POST_FILE"; then
+      sed -i "s/^series = .*/series = 'headline'/" "$POST_FILE"
+    else
+      sed -i "/^title = /a series = 'headline'" "$POST_FILE"
+    fi
+    
+    # Update or add tags = ['headline']
+    if grep -q "^tags = " "$POST_FILE"; then
+      sed -i "s/^tags = .*/tags = ['headline']/" "$POST_FILE"
+    else
+      sed -i "/^title = /a tags = ['headline']" "$POST_FILE"
+    fi
+
+    # Update categories
+    if grep -q "^categories = " "$POST_FILE"; then
+      sed -i "s/^categories = .*/categories = 'Headlines'/" "$POST_FILE"
+    else
+      sed -i "/^title = /a categories = 'Headlines'" "$POST_FILE"
     fi
   fi
 else

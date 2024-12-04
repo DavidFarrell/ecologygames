@@ -20,10 +20,15 @@ This command:
 Create new posts using:
 
 ```bash
-./hugo-new.sh "Your Post Title"
+./hugo-new.sh [-g|-h] "Your Post Title"
 ```
 
-If you can't execute it, do 
+Options:
+- No flag: Creates a news post (default)
+- `-g`: Creates a game post
+- `-h`: Creates a headline post
+
+If you can't execute it, do:
 
 ```bash
 chmod +x hugo-new.sh
@@ -38,14 +43,21 @@ Control where content appears using the `series` parameter in the front matter:
 title: "Your Title"
 date: 2024-03-14
 draft: false
-series: "news"  # or "games"
+series: "news"     # options: "news", "games", or "headline"
+categories: "News" # matches series: "News", "Games", or "Headlines"
+tags: ["news"]     # matches series: ["news"], ["games"], or ["headline"]
 ---
 ```
 
+Content Types:
+- `series: "headline"`: Only one 'headline' is visible - it's the 'hero' post on the home page
 - `series: "news"`: News items
-  - Most recent post becomes the featured hero headline
-  - Next 3 most recent appear as smaller cards below
+  - Next 3 most recent appear as smaller cards below the headline
 - `series: "games"`: Appears in games section - we show most recent 6
+
+The script automatically sets appropriate categories and tags based on the content type. These are used for site organization and navigation:
+- Categories appear in the site navigation
+- Tags are used for related content and search functionality
 
 ## Deployment Note
 
