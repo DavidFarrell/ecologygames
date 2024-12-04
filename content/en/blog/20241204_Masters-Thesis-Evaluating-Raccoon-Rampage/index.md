@@ -1,5 +1,5 @@
 +++
-title = 'NEWS: Masters Thesis Evaluates Raccoon Rampage'
+title = 'NEWS: Masters Thesis Evaluating Raccoon Rampage'
 date = 2024-12-04T14:24:10Z
 draft = false
 categories = 'News'

@@ -1,3 +1,5 @@
+<!-- Individual blog post template -->
+ <!-- This is the one you see when you open one of the cards -->
 <article class="blog-post">
     <div class="blog-post-title">
         <h1>{{.Title}}</h1>
@@ -16,10 +18,10 @@
             </span>
         </div>
     </div>
-    {{ with .Resources.Get "thumbnail.jpg" }}
-        <img src="{{ .RelPermalink }}" alt="Thumbnail">
+    {{ with .Resources.Get "headline.jpg" }}
+        <img src="{{ .RelPermalink }}" alt="Headline Image">
     {{ else }}
-        <img src="{{ "images/thumbnail.jpg" | relURL }}" alt="Thumbnail">
+        <img src="{{ "images/headline.jpg" | relURL }}" alt="Headline Image">
     {{ end }}
     <div class="blog-post-container markdown">
         <div>{{.Content}}</div>

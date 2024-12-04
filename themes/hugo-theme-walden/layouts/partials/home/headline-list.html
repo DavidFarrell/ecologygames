@@ -1,8 +1,10 @@
-{{/* Display items 2-4 of content tagged with series="news" as smaller headline cards.
-     Note: The first news item is displayed separately in the featured section. */}}
-
-{{ range after 1 (first 4 (where .Site.RegularPages "Params.series" "news")) }}
-<div class="card-container">
+{{/* Display items 1-3 of content tagged with series="news" as smaller headline cards.
+ Note: The first news item is displayed separately in the featured section. */}}
+<div class="section-heading">
+    NEWS:
+</div>
+{{ range after 0 (first 3 (where .Site.RegularPages "Params.series" "news")) }}
+<div class="card-container"> 
     <div class="card-headline">
         <div class="card-headline-thumbnail">
             {{ with .Resources.Get "thumbnail.jpg" }}

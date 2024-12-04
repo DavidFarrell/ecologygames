@@ -1,5 +1,5 @@
 {{/* The first content item tagged with series="news" will be featured full length on the homepage */}}
-{{ range first 1 (where .Site.RegularPages "Params.series" "news")  }}
+{{ range first 1 (where .Site.RegularPages "Params.series" "headline")  }}
     {{ with .Resources.Get "headline.jpg" }}
     <div class="headline" style="background: url({{ .RelPermalink }}) center center no-repeat;">
     {{ end }}

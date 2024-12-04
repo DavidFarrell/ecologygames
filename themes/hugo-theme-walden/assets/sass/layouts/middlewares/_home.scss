@@ -3,7 +3,8 @@
 }
 
 #headline-list,
-#games-list {
+#games-list, 
+#news-title {
     width: 100%;
     padding: .5rem;
     display: flex;
@@ -11,6 +12,13 @@
     .card-container {
         padding: .5rem;
         width: 100%;
+    }
+    .section-heading {
+        padding-left: 1rem;
+        width: 100%;
+        font-size: 1.25rem;
+        font-weight: bold;
+        color: var(--white);
     }
 }
 

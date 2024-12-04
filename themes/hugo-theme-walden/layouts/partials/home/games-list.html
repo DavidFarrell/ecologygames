@@ -1,5 +1,9 @@
 {{/* Display up to 6 most recent content items tagged with series="games" as cards */}}
 
+
+<div class="section-heading">
+    GAMES:
+</div>
 {{ range after 0 (first 6 (where .Site.RegularPages "Params.series" "games")) }}
 <div class="card-container">
     <div class="card-headline">

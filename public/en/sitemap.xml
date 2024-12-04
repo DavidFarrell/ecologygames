@@ -54,7 +54,7 @@
     <loc>http://localhost:1313/docs/markdown/more/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-04T14:24:10+00:00</lastmod>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -66,8 +66,11 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/20241204_ecology-games/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-12-04T14:24:10+00:00</lastmod>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -79,8 +82,27 @@
                 href="http://localhost:1313/blog/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/headline/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/headline/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans-CN"
+                href="http://localhost:1313/zh/series/headline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/series/headline/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/headline/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-04T14:24:10+00:00</lastmod>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans-CN"
@@ -90,6 +112,32 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans-CN"
+                href="http://localhost:1313/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-04T19:14:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans-CN"
+                href="http://localhost:1313/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/news/</loc>
@@ -104,32 +152,6 @@
     <loc>http://localhost:1313/blog/20241204_masters-thesis-evaluating-raccoon-rampage/</loc>
     <lastmod>2024-12-04T14:24:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2024-12-04T14:24:10+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans-CN"
-                href="http://localhost:1313/zh/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-04T14:24:10+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans-CN"
-                href="http://localhost:1313/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/20241201_bioinvasions-raccoon-rampage/</loc>
     <lastmod>2024-12-01T13:47:38+00:00</lastmod>
   </url><url>
@@ -141,9 +163,6 @@
   </url><url>
     <loc>http://localhost:1313/series/games/</loc>
     <lastmod>2024-12-01T13:47:38+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/20241201_ecology-games-is-live/</loc>
-    <lastmod>2024-12-01T13:42:26+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</loc>
     <lastmod>2024-12-01T11:19:23+00:00</lastmod>
@@ -165,19 +184,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/semi-cooperative/</loc>
     <lastmod>2024-12-01T11:08:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/headline/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans-CN"
-                href="http://localhost:1313/zh/series/headline/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/series/headline/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/your-post-name/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
@@ -227,7 +233,5 @@
                 hreflang="en-US"
                 href="http://localhost:1313/docs/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/categories/games/</loc>
   </url>
 </urlset>

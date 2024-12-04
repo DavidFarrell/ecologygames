@@ -4,7 +4,7 @@ date = {{ .Date }}
 draft = false
 categories = 'News'
 tags = ['news']
-series = 'news' # Optional, add this if you want it to appear in the headline section
+series = 'news' # options are news or games or headline - headline replaces hero post on home page
 [params]
   author = 'Paidia'
 +++
