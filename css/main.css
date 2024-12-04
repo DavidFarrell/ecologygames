@@ -227,15 +227,25 @@ body {
   width: 100%; }
 
 #headline-list,
-#games-list {
+#games-list,
+#news-title {
   width: 100%;
   padding: .5rem;
   display: flex;
   flex-flow: wrap; }
   #headline-list .card-container,
-  #games-list .card-container {
+  #games-list .card-container,
+  #news-title .card-container {
     padding: .5rem;
     width: 100%; }
+  #headline-list .section-heading,
+  #games-list .section-heading,
+  #news-title .section-heading {
+    padding-left: 1rem;
+    width: 100%;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: var(--white); }
 
 @media (min-width: 800px) {
   #headline-list .card-container,
