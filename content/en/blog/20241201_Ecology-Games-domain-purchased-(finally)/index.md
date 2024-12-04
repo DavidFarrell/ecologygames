@@ -1,5 +1,5 @@
 +++
-title = 'Ecology Games Domain Purchased (Finally)'
+title = 'NEWS: Ecology Games Domain Purchased (Finally)'
 date = 2024-12-01T11:19:23Z
 draft = false
 categories = 'News'

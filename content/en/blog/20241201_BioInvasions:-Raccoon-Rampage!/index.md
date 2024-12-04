@@ -2,7 +2,7 @@
 title = 'BioInvasions: Raccoon Rampage!'
 date = 2024-12-01T13:47:38Z
 draft = false
-categories = 'News'
+categories = 'Game'
 tags = ['games']
 series = 'games'
 [params]

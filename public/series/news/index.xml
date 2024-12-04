@@ -6,20 +6,27 @@
     <description>Recent content in News on Ecology Games</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Dec 2024 11:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 14:24:10 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/series/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ecology Games Domain Purchased (Finally)</title>
+      <title>NEWS: Masters Thesis Evaluates Raccoon Rampage</title>
+      <link>http://localhost:1313/blog/20241204_masters-thesis-evaluating-raccoon-rampage/</link>
+      <pubDate>Wed, 04 Dec 2024 14:24:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241204_masters-thesis-evaluating-raccoon-rampage/</guid>
+      <description>&lt;p&gt;Pamela Neff&amp;rsquo;s Master&amp;rsquo;s thesis explores the effectiveness of &amp;ldquo;BioInvasions: Raccoon Rampage&amp;rdquo;, a board game designed to educate players about the complexities of managing invasive species, specifically raccoons in Europe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NEWS: Ecology Games Is Live</title>
+      <link>http://localhost:1313/blog/20241201_ecology-games-is-live/</link>
+      <pubDate>Sun, 01 Dec 2024 13:42:26 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20241201_ecology-games-is-live/</guid>
+      <description>&lt;p&gt;This website aims to be a hub for links to and news about ecology games.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NEWS: Ecology Games Domain Purchased (Finally)</title>
       <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</link>
       <pubDate>Sun, 01 Dec 2024 11:19:23 +0000</pubDate>
       <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased-finally/</guid>
-      <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>20241201_Ecology Games Domain Purchased!</title>
-      <link>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</link>
-      <pubDate>Sun, 01 Dec 2024 11:11:24 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20241201_ecology-games-domain-purchased/</guid>
       <description>&lt;p&gt;Buying a .eu domain is tricky if you are in the UK!&lt;/p&gt;</description>
     </item>
   </channel>
