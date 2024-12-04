@@ -20,15 +20,10 @@ This command:
 Create new posts using:
 
 ```bash
-./hugo-new.sh [-g|-h] "Your Post Title"
+./hugo-new.sh "Your Post Title"
 ```
 
-Options:
-- No flag: Creates a news post (default)
-- `-g`: Creates a game post
-- `-h`: Creates a headline post
-
-If you can't execute it, do:
+If you can't execute it, do 
 
 ```bash
 chmod +x hugo-new.sh
